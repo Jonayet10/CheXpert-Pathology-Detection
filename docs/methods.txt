@@ -1,0 +1,10 @@
+Support Devices: 
+    - Texture Analysis 
+        - Local Binary Patterns (LBP)
+    - Edge detection
+        - Canny
+        - Sobel Filter
+
+Pneumonia: 
+(dense white spots, dark branching lines, white area at base of lung, fine
+net-like markings on the base of the lung)
